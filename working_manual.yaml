@@ -1,0 +1,20 @@
+id: oomlout_oomp_electronic_project_mcu_breakout_mega_footprint
+name: "MCU Breakout Mega Footprint"
+description: "An MCU Breakout Mega Footprint."
+readme_manual: |
+  ## notes 
+  ### steps
+  * make the modules
+  * draw the modules
+  * incorporate in schematic
+  * make pcb
+  * make into footprint
+  ### included footprints  
+  * arduino nano
+    * kicad_module_arduino_nano_withmountingholes
+  * arduino pro mini 
+    * sparkfun_boards_arduino_pro_mini
+  * raspberry pi pico 2040  
+    * arturo182_module_extra_raspberrypi_pico  
+  * esp wroom 32 devkit c  
+    * footprint espressif_espressif_esp32_devkitc  
